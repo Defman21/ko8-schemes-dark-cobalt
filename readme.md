@@ -1,3 +1,3 @@
-The "BlueWater" color scheme for Komodo 9.
+The "Dark_Cobalt" color scheme for Komodo 9.
 
 ![Screen](screen.png)
